@@ -13,7 +13,7 @@ from datetime import datetime
 # create paramiters of connections
 nokia = {
 	'device_type': 'alcatel_aos',
-	'host': '10.1.254.99', #IP OLT
+	'host': '10.10.10.10', #IP OLT
 	'username': 'python',  #User OLT
 	'password': 'python@1234', #Pass OLT
 	}
