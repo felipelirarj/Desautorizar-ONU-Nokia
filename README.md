@@ -1,3 +1,5 @@
+Projeto Python voltado a OLT Nokia
+
 Script para desautorizar ONU/ONT da OLT Nokia apenas informando o serial.
 
 *Só está funcional com ONU/ONT Nokia (ALCLxxx)
